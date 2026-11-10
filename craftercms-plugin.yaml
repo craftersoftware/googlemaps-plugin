@@ -37,18 +37,18 @@ plugin:
     minor: 0
     patch: 25
   description: A plugin to add Google Maps to a site
-  documentation: "https://raw.githubusercontent.com/craftercms/googlemaps-plugin/master/readme.md"
+  documentation: "https://raw.githubusercontent.com/craftersoftware/googlemaps-plugin/master/readme.md"
   website:
     name: Google Maps Plugin
-    url: https://github.com/craftercms/googlemaps-plugin
+    url: https://github.com/craftersoftware/googlemaps-plugin
   media:
     screenshots:
       - title: Google Maps
         description: Google Maps
-        url: https://raw.githubusercontent.com/craftercms/googlemaps-plugin/master/.crafter/cover.png
+        url: https://raw.githubusercontent.com/craftersoftware/googlemaps-plugin/master/.crafter/cover.png
       - title: Google Maps Example
         description: Google Maps Example
-        url: https://raw.githubusercontent.com/craftercms/googlemaps-plugin/master/.crafter/screenshots/place.png
+        url: https://raw.githubusercontent.com/craftersoftware/googlemaps-plugin/master/.crafter/screenshots/place.png
   developer:
     company:
       name: CrafterCMS
